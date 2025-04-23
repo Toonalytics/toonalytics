@@ -1,10 +1,3 @@
-# Toonalytics
-
-Toonalytics is a smart business data analysis tool designed to help organizations gain insights and identify growth opportunities.
-
-This project aims to use data analysis and automation tools to power decisions through dashboards, metrics, and AI-based suggestions.
-# 📊 Toonalytics
-
 **Toonalytics** is a smart business solution designed to analyze company data and provide strategic growth recommendations. It leverages AI (OpenAI API), low-code tools (Power Automate, Power Apps), and business analytics to turn raw data into actionable insights — especially for African startups and small businesses.
 
 ---
